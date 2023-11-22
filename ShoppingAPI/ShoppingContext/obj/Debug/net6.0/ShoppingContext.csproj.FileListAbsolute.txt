@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\bin\Debug\net6.0\ShoppingContext.deps.json
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\bin\Debug\net6.0\ShoppingContext.runtimeconfig.json
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\bin\Debug\net6.0\ShoppingContext.dll
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\bin\Debug\net6.0\ShoppingContext.pdb
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ShoppingContext.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ShoppingContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ShoppingContext.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ShoppingContext.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ShoppingContext.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ShoppingContext.dll
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\refint\ShoppingContext.dll
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ShoppingContext.pdb
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ShoppingContext.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingContext\obj\Debug\net6.0\ref\ShoppingContext.dll

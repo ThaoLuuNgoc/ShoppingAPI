@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\bin\Debug\net6.0\ShoppingShare.deps.json
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\bin\Debug\net6.0\ShoppingShare.runtimeconfig.json
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\bin\Debug\net6.0\ShoppingShare.dll
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\bin\Debug\net6.0\ShoppingShare.pdb
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ShoppingShare.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ShoppingShare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ShoppingShare.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ShoppingShare.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ShoppingShare.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ShoppingShare.dll
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\refint\ShoppingShare.dll
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ShoppingShare.pdb
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ShoppingShare.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Shopping\ShoppingAPI\ShoppingShare\obj\Debug\net6.0\ref\ShoppingShare.dll
