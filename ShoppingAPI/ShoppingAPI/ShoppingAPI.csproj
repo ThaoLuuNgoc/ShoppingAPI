@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShoppingContext\ShoppingContext.csproj" />
+    <ProjectReference Include="..\ShoppingData\ShoppingData.csproj" />
   </ItemGroup>
 
 </Project>

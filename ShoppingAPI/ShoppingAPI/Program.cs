@@ -1,9 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using ShoppingContext.Model;
+using ShoppingData.Interfaces;
+using ShoppingData.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddScoped<ICustomer, CustomerRes>();
 
 // Add your database context configuration here
 builder.Services.AddDbContext<ShopContext>(options =>
